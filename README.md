@@ -1,1 +1,1 @@
-# go-http-client implementation
+# go-http-echo-server
