@@ -1,3 +1,3 @@
-module mayugestudio/go-http-echo-server
+module mayugestudio/go-http-server
 
 go 1.24.4
